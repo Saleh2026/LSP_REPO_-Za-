@@ -1,0 +1,10 @@
+# Eclipse / Java junk
+.project
+.classpath
+.settings/
+bin/
+out/
+target/
+
+# Compiled files
+*.class
