@@ -1,4 +1,4 @@
-package org.howrd.edu.lsp.midterm.strategy;
+package org.howard.edu.lsp.midterm.strategy;
 
 /**
  * Interface for different pricing strategies.
