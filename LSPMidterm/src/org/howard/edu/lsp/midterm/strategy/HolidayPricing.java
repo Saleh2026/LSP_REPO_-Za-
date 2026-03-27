@@ -1,3 +1,8 @@
-package org.howard.edu.lsp.midterm.strategy
+package org.howard.edu.lsp.midterm.strategy;
 
-public double computePrice(double price) { return price * 0.85; }
+public class HolidayPricing implements PricingStrategy {
+    @Override
+    public double computePrice(double price) {
+        return price * 0.85;
+    }
+}
